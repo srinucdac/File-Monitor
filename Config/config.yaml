@@ -1,0 +1,3 @@
+directory: "C:/path/to/watch"
+database: "C:/path/to/database.db"
+concurrency: 5
